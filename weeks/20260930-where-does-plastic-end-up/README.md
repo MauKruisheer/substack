@@ -2,7 +2,7 @@
 
 Data, code and figures for the Substack article **"Where Does Our Plastic End Up?"** by Maurits Kruisheer.
 
-> *I dig into environmental problems using science, making theory practical, reproducible and fun.*
+> *I dig into environmental problems using science, making theory practical, reproducible and fun. Environmental Scientist on a mission.*
 
 Every figure in the article can be rebuilt from the notebooks here, and you can change them to ask your own questions. No installation needed: click a **Colab** button below and run the notebook in your browser.
 
@@ -10,7 +10,7 @@ Every figure in the article can be rebuilt from the notebooks here, and you can 
 
 | Figure | What it shows | Notebook | Open in your browser |
 |---|---|---|---|
-| **1** | From 100 bottles to a polluted planet: where the world's plastic waste ends up | [`01_where_plastic_ends_up`](notebooks/01_where_plastic_ends_up.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/01_where_plastic_ends_up.ipynb) |
+| **2** | From 100 bottles to a polluted planet: where the world's plastic waste ends up | [`01_where_plastic_ends_up`](notebooks/01_where_plastic_ends_up.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/01_where_plastic_ends_up.ipynb) |
 | **3a** | Map: total plastic pollution per country + top 10 | [`02_pollution_maps`](notebooks/02_pollution_maps.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/02_pollution_maps.ipynb) |
 | **3b** | Map: plastic pollution per person + top 10 | [`02_pollution_maps`](notebooks/02_pollution_maps.ipynb) | (same notebook) |
 | **4** | Uncollected waste vs. litter: sources of pollution by income group | [`03_pollution_sources_by_income`](notebooks/03_pollution_sources_by_income.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/03_pollution_sources_by_income.ipynb) |
