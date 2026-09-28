@@ -1,0 +1,47 @@
+# ----------------------------------------------------------------------------
+# PUBLIC REPOSITORY, PRIVATE WORKSPACE
+#
+# Everything in this folder is PRIVATE by default (the first rule ignores it all).
+# Only the reader-facing material listed below is uploaded to GitHub:
+# per week, the README, notebooks, figures, code and processed data.
+# Notes, drafts, critiques, literature, CLAUDE.md, ideas.md, runbook.md etc.
+# never leave this computer.
+# ----------------------------------------------------------------------------
+
+# 1. Ignore everything ...
+/*
+
+# 2. ... except these files at the top level
+!/.gitignore
+!/.github/
+!/LICENSE
+!/requirements.txt
+
+# 3. In each week folder, only the reader-facing parts are public
+!/weeks/
+/weeks/*
+!/weeks/*/
+/weeks/*/*
+!/weeks/*/README.md
+!/weeks/*/analysis.py
+!/weeks/*/notebooks/
+!/weeks/*/figures/
+!/weeks/*/src/
+!/weeks/*/assets/
+!/weeks/*/datawrapper/
+
+# 4. Data: processed tables are public; raw data only when its licence allows it,
+#    so raw data is opted in per week, by name.
+!/weeks/*/data/
+/weeks/*/data/*
+!/weeks/*/data/processed/
+# w01: Cottom et al. 2024 data are CC0; Natural Earth is public domain
+!/weeks/20260930-where-does-plastic-end-up/data/raw/
+!/weeks/20260930-where-does-plastic-end-up/data/geo/
+
+# 5. Never upload these, wherever they are
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.zip

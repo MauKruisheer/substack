@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="524.16pt" height="367.2pt" viewBox="0 0 524.16 367.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-28T07:40:53.719138</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 367.2 
+L 524.16 367.2 
+L 524.16 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 123.1776 288.252 
+L 400.9824 288.252 
+L 400.9824 115.668 
+L 123.1776 115.668 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 123.1776 151.868546 
+L 179.641703 151.868546 
+L 179.641703 125.770478 
+L 123.1776 125.770478 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 180.614019 151.868546 
+L 314.807319 151.868546 
+L 314.807319 125.770478 
+L 180.614019 125.770478 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 315.779636 151.868546 
+L 315.779636 151.868546 
+L 315.779636 125.770478 
+L 315.779636 125.770478 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 315.785636 151.868546 
+L 399.822636 151.868546 
+L 399.822636 125.770478 
+L 315.785636 125.770478 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 400.794953 151.868546 
+L 400.794953 151.868546 
+L 400.794953 125.770478 
+L 400.794953 125.770478 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #e87ba4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 123.1776 193.962205 
+L 313.281544 193.962205 
+L 313.281544 167.864137 
+L 123.1776 167.864137 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 314.25386 193.962205 
+L 322.062337 193.962205 
+L 322.062337 167.864137 
+L 314.25386 167.864137 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 323.034654 193.962205 
+L 390.276865 193.962205 
+L 390.276865 167.864137 
+L 323.034654 167.864137 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 391.249182 193.962205 
+L 397.050202 193.962205 
+L 397.050202 167.864137 
+L 391.249182 167.864137 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 398.022519 193.962205 
+L 400.010083 193.962205 
+L 400.010083 167.864137 
+L 398.022519 167.864137 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #e87ba4"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 123.1776 236.055863 
+L 304.223364 236.055863 
+L 304.223364 209.957795 
+L 123.1776 209.957795 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 305.195681 236.055863 
+L 312.220817 236.055863 
+L 312.220817 209.957795 
+L 305.195681 209.957795 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 313.193133 236.055863 
+L 390.145026 236.055863 
+L 390.145026 209.957795 
+L 313.193133 209.957795 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 391.117343 236.055863 
+L 394.156406 236.055863 
+L 394.156406 209.957795 
+L 391.117343 209.957795 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 395.128722 236.055863 
+L 400.010083 236.055863 
+L 400.010083 209.957795 
+L 395.128722 209.957795 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #e87ba4"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 123.1776 278.149522 
+L 343.689803 278.149522 
+L 343.689803 252.051454 
+L 123.1776 252.051454 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 344.66212 278.149522 
+L 358.263525 278.149522 
+L 358.263525 252.051454 
+L 344.66212 252.051454 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 359.235842 278.149522 
+L 388.389315 278.149522 
+L 388.389315 252.051454 
+L 359.235842 252.051454 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 389.361632 278.149522 
+L 391.573046 278.149522 
+L 391.573046 252.051454 
+L 389.361632 252.051454 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 392.545363 278.149522 
+L 400.010083 278.149522 
+L 400.010083 252.051454 
+L 392.545363 252.051454 
+z
+" clip-path="url(#pb6289f09a2)" style="fill: #e87ba4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'Lato'; text-anchor: middle; fill: #8a8983" x="123.1776" y="298.381062" transform="rotate(-0 123.1776 298.381062)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'Lato'; text-anchor: middle; fill: #8a8983" x="192.6288" y="298.381062" transform="rotate(-0 192.6288 298.381062)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'Lato'; text-anchor: middle; fill: #8a8983" x="262.08" y="298.381062" transform="rotate(-0 262.08 298.381062)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'Lato'; text-anchor: middle; fill: #8a8983" x="331.5312" y="298.381062" transform="rotate(-0 331.5312 298.381062)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'Lato'; text-anchor: middle; fill: #8a8983" x="400.9824" y="298.381062" transform="rotate(-0 400.9824 298.381062)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Lato'; text-anchor: end; fill: #52514e" x="115.1776" y="142.870606" transform="rotate(-0 115.1776 142.870606)">High income</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Lato'; text-anchor: end; fill: #52514e" x="115.1776" y="184.964264" transform="rotate(-0 115.1776 184.964264)">Upper-middle income</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Lato'; text-anchor: end; fill: #52514e" x="115.1776" y="227.057923" transform="rotate(-0 115.1776 227.057923)">Lower-middle income</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'Lato'; text-anchor: end; fill: #52514e" x="115.1776" y="269.151582" transform="rotate(-0 115.1776 269.151582)">Low income</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #ffffff" x="151.89581" y="141.696856" transform="rotate(-0 151.89581 141.696856)">21%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #ffffff" x="248.196828" y="141.696856" transform="rotate(-0 248.196828 141.696856)">49%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #0b0b0b" x="358.290295" y="141.696856" transform="rotate(-0 358.290295 141.696856)">31%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="409.316544" y="132.534756" transform="rotate(-0 409.316544 132.534756)">0.13 kg</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'Lato'; text-anchor: start; fill: #52514e" x="409.316544" y="148.816067" transform="rotate(-0 409.316544 148.816067)">per person · 0.16 Mt</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #ffffff" x="218.71573" y="183.790514" transform="rotate(-0 218.71573 183.790514)">69%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #0b0b0b" x="357.141918" y="183.790514" transform="rotate(-0 357.141918 183.790514)">25%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="409.316544" y="174.628414" transform="rotate(-0 409.316544 174.628414)">5.2 kg</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Lato'; text-anchor: start; fill: #52514e" x="409.316544" y="190.909726" transform="rotate(-0 409.316544 190.909726)">per person · 14.0 Mt</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #ffffff" x="214.18664" y="225.884173" transform="rotate(-0 214.18664 225.884173)">66%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #0b0b0b" x="352.155238" y="225.884173" transform="rotate(-0 352.155238 225.884173)">28%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="409.316544" y="216.722073" transform="rotate(-0 409.316544 216.722073)">9.6 kg</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Lato'; text-anchor: start; fill: #52514e" x="409.316544" y="233.003384" transform="rotate(-0 409.316544 233.003384)">per person · 30.4 Mt</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #ffffff" x="233.91986" y="267.977832" transform="rotate(-0 233.91986 267.977832)">80%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Lato'; text-anchor: middle; fill: #0b0b0b" x="374.298737" y="267.977832" transform="rotate(-0 374.298737 267.977832)">11%</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="409.316544" y="258.815731" transform="rotate(-0 409.316544 258.815731)">10.2 kg</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9px; font-family: 'Lato'; text-anchor: start; fill: #52514e" x="409.316544" y="275.097043" transform="rotate(-0 409.316544 275.097043)">per person · 7.5 Mt</text>
+   </g>
+  </g>
+  <g id="text_27">
+   <text style="font-weight: 900; font-size: 20px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="20.9664" y="30.749375" transform="rotate(-0 20.9664 30.749375)">Litter in rich countries, uncollected waste elsewhere</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 12.5px; font-family: 'Lato'; fill: #52514e" transform="translate(20.9664 55.773359)">Share of plastic pollution by where it escapes the waste system (2020).</text>
+   <text style="font-size: 12.5px; font-family: 'Lato'; fill: #52514e" transform="translate(20.9664 70.347383)">Pollution = plastic debris + plastic burned in the open.</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 8.8px; font-family: 'Lato'; fill: #8a8983" transform="translate(20.9664 332.330025)">Source: Cottom, Cook &amp; Velis (2024), Nature, doi.org/10.1038/s41586-024-07758-6 (SPOT model, mean of 5,000 runs).</text>
+   <text style="font-size: 8.8px; font-family: 'Lato'; fill: #8a8983" transform="translate(20.9664 343.4898)">Income groups follow the World Bank classification. Household (municipal) waste only.</text>
+   <text style="font-size: 8.8px; font-family: 'Lato'; fill: #8a8983" transform="translate(20.9664 354.17025)">Chart: Maurits Kruisheer</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_23">
+    <path d="M 29.5164 103.962 
+L 39.9664 103.962 
+L 39.9664 94.842 
+L 29.5164 94.842 
+z
+" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="44.7164" y="102.632" transform="rotate(-0 44.7164 102.632)">Uncollected waste</text>
+   </g>
+   <g id="patch_24">
+    <path d="M 133.251947 103.962 
+L 143.701947 103.962 
+L 143.701947 94.842 
+L 133.251947 94.842 
+z
+" style="fill: #eb6834; stroke: #eb6834; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="148.451947" y="102.632" transform="rotate(-0 148.451947 102.632)">Litter</text>
+   </g>
+   <g id="patch_25">
+    <path d="M 182.294213 103.962 
+L 192.744213 103.962 
+L 192.744213 94.842 
+L 182.294213 94.842 
+z
+" style="fill: #1baf7a; stroke: #1baf7a; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 9.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="197.494213" y="102.632" transform="rotate(-0 197.494213 102.632)">Disposal</text>
+   </g>
+   <g id="patch_26">
+    <path d="M 244.299525 103.962 
+L 254.749525 103.962 
+L 254.749525 94.842 
+L 244.299525 94.842 
+z
+" style="fill: #eda100; stroke: #eda100; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="259.499525" y="102.632" transform="rotate(-0 259.499525 102.632)">Collection system</text>
+   </g>
+   <g id="patch_27">
+    <path d="M 344.828822 103.962 
+L 355.278822 103.962 
+L 355.278822 94.842 
+L 344.828822 94.842 
+z
+" style="fill: #e87ba4; stroke: #e87ba4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9.5px; font-family: 'Lato'; text-anchor: start; fill: #0b0b0b" x="360.028822" y="102.632" transform="rotate(-0 360.028822 102.632)">Sorting rejects</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb6289f09a2">
+   <rect x="123.1776" y="115.668" width="277.8048" height="172.584"/>
+  </clipPath>
+ </defs>
+</svg>

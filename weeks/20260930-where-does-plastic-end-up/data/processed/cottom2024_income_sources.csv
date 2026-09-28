@@ -1,0 +1,41 @@
+income_code,income_group,source,form,tonnes,kg_per_cap,population_2020
+World,World,Uncollected waste,debris,1.8689e+07,2.3855,7834330915
+World,World,Uncollected waste,open burned,1.69e+07,2.1572,7834330915
+World,World,Litter,debris,1.7914e+06,0.22866,7834330915
+World,World,Collection system,debris,9.1715e+05,0.11707,7834330915
+World,World,Disposal,debris,2.5225e+05,0.032198,7834330915
+World,World,Disposal,open burned,1.2539e+07,1.6005,7834330915
+World,World,Sorting rejects,debris,5.7069e+05,0.072845,7834330915
+World,World,Sorting rejects,open burned,4.4727e+05,0.057091,7834330915
+HIC,High income,Uncollected waste,debris,21387,0.017566,1217522722
+HIC,High income,Uncollected waste,open burned,12238,0.010052,1217522722
+HIC,High income,Litter,debris,79130,0.064993,1217522722
+HIC,High income,Collection system,debris,49767,0.040876,1217522722
+HIC,High income,Disposal,debris,0.069422,5.7019e-08,1217522722
+HIC,High income,Disposal,open burned,3.4431,2.828e-06,1217522722
+HIC,High income,Sorting rejects,debris,62.183,5.1074e-05,1217522722
+HIC,High income,Sorting rejects,open burned,47.554,3.9058e-05,1217522722
+UMC,Upper-middle income,Uncollected waste,debris,3.1803e+06,1.174,2708902066
+UMC,Upper-middle income,Uncollected waste,open burned,6.4808e+06,2.3924,2708902066
+UMC,Upper-middle income,Litter,debris,4.4397e+05,0.16389,2708902066
+UMC,Upper-middle income,Collection system,debris,3.4247e+05,0.12642,2708902066
+UMC,Upper-middle income,Disposal,debris,62328,0.023009,2708902066
+UMC,Upper-middle income,Disposal,open burned,3.3867e+06,1.2502,2708902066
+UMC,Upper-middle income,Sorting rejects,debris,49046,0.018105,2708902066
+UMC,Upper-middle income,Sorting rejects,open burned,1.0061e+05,0.03714,2708902066
+LMC,Lower-middle income,Uncollected waste,debris,1.1282e+07,3.5516,3176593244
+LMC,Lower-middle income,Uncollected waste,open burned,8.6419e+06,2.7205,3176593244
+LMC,Lower-middle income,Litter,debris,8.7541e+05,0.27558,3176593244
+LMC,Lower-middle income,Collection system,debris,4.3909e+05,0.13823,3176593244
+LMC,Lower-middle income,Disposal,debris,1.7067e+05,0.053727,3176593244
+LMC,Lower-middle income,Disposal,open burned,8.359e+06,2.6314,3176593244
+LMC,Lower-middle income,Sorting rejects,debris,3.6259e+05,0.11414,3176593244
+LMC,Lower-middle income,Sorting rejects,open burned,2.7816e+05,0.087567,3176593244
+LIC,Low income,Uncollected waste,debris,4.2053e+06,5.7503,731312883
+LIC,Low income,Uncollected waste,open burned,1.7652e+06,2.4137,731312883
+LIC,Low income,Litter,debris,3.9286e+05,0.5372,731312883
+LIC,Low income,Collection system,debris,85823,0.11735,731312883
+LIC,Low income,Disposal,debris,19253,0.026326,731312883
+LIC,Low income,Disposal,open burned,7.9284e+05,1.0841,731312883
+LIC,Low income,Sorting rejects,debris,1.5899e+05,0.2174,731312883
+LIC,Low income,Sorting rejects,open burned,68445,0.093592,731312883

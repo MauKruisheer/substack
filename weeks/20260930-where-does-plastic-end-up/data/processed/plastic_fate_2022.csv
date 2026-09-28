@@ -1,0 +1,9 @@
+step,item,mt,source,bottles_of_100,share_of_waste_pct
+1,Sent to recycling,37.960,Houssini et al. 2025,14.564,14.564
+1,Incinerated,89.990,Houssini et al. 2025,34.525,34.525
+1,Landfilled,103.100,Houssini et al. 2025,39.555,39.555
+1,Mismanaged,29.600,Houssini et al. 2025,11.356,11.356
+2,Mismanaged: burned in the open,16.977,Houssini et al. 2025 x ratio from Cottom et al. 2024,6.513,6.513
+2,Mismanaged: debris,12.623,Houssini et al. 2025 x ratio from Cottom et al. 2024,4.843,4.843
+3,Reaches the ocean (low),0.800,Meijer et al. 2021,0.307,0.307
+3,Reaches the ocean (high),2.700,Meijer et al. 2021,1.036,1.036
