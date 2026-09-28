@@ -2,7 +2,7 @@
 
 Data, code and figures for the Substack article **"Where Does Our Plastic End Up?"** by Maurits Kruisheer.
 
-> *I dig into environmental problems using science, making theory practical, reproducible and fun.*
+> *I dig into environmental problems using science, making theory practical, reproducible and fun. Environmental Scientist on a mission.*
 
 Every figure in the article can be rebuilt from the notebooks here, and you can change them to ask your own questions. No installation needed: click a **Colab** button below and run the notebook in your browser.
 
