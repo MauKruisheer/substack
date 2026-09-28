@@ -10,10 +10,10 @@ Every figure in the article can be rebuilt from the notebooks here, and you can 
 
 | Figure | What it shows | Notebook | Open in your browser |
 |---|---|---|---|
-| **1** | From 100 bottles to a polluted planet: where the world's plastic waste ends up | [`01_where_plastic_ends_up`](notebooks/01_where_plastic_ends_up.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/01_where_plastic_ends_up.ipynb) |
-| **3a** | Map: total plastic pollution per country + top 10 | [`02_pollution_maps`](notebooks/02_pollution_maps.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/02_pollution_maps.ipynb) |
+| **1** | From 100 bottles to a polluted planet: where the world's plastic waste ends up | [`01_where_plastic_ends_up`](notebooks/01_where_plastic_ends_up.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/01_where_plastic_ends_up.ipynb) |
+| **3a** | Map: total plastic pollution per country + top 10 | [`02_pollution_maps`](notebooks/02_pollution_maps.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/02_pollution_maps.ipynb) |
 | **3b** | Map: plastic pollution per person + top 10 | [`02_pollution_maps`](notebooks/02_pollution_maps.ipynb) | (same notebook) |
-| **4** | Uncollected waste vs. litter: sources of pollution by income group | [`03_pollution_sources_by_income`](notebooks/03_pollution_sources_by_income.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/03_pollution_sources_by_income.ipynb) |
+| **4** | Uncollected waste vs. litter: sources of pollution by income group | [`03_pollution_sources_by_income`](notebooks/03_pollution_sources_by_income.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauKruisheer/substack/blob/main/weeks/20260930-where-does-plastic-end-up/notebooks/03_pollution_sources_by_income.ipynb) |
 
 Notebook [`00_prepare_data`](notebooks/00_prepare_data.ipynb) shows how the raw research data became the tidy tables the other notebooks use. Start there if you want to understand the data itself.
 
@@ -40,13 +40,13 @@ Notebook [`00_prepare_data`](notebooks/00_prepare_data.ipynb) shows how the raw 
 
 **In your browser (easiest):** click an *Open in Colab* button above, then *Runtime → Run all*. You need a Google account.
 
-**Or with Binder** (no account): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/HEAD?labpath=weeks/20260930-where-does-plastic-end-up/notebooks)
+**Or with Binder** (no account): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MauKruisheer/substack/HEAD?labpath=weeks/20260930-where-does-plastic-end-up/notebooks)
 
 **On your own computer:**
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
-cd YOUR-REPO-NAME
+git clone https://github.com/MauKruisheer/substack
+cd substack
 pip install -r requirements.txt
 jupyter lab weeks/20260930-where-does-plastic-end-up
 ```
